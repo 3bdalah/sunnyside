@@ -180,6 +180,7 @@ img {
     color: #fff;
     transition: linear 0.3s;
     font-weight: 800;
+    text-transform: capitalize;
 }
 
 .menu li a:hover {
