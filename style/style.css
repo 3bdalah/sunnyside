@@ -245,6 +245,7 @@ img {
     text-decoration: none;
     color: #000;
     font-weight: 800;
+    text-transform: capitalize;
 }
 
 .menu-mobile li:hover a {
